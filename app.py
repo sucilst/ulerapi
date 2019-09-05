@@ -6,7 +6,7 @@ def hello():
 	return "Halo Assertible"
 
 @app.route("/hagemaru")
-def hello():
+def hagemaru():
 	return "Halo"
 
 if __name__ == "__main__":
